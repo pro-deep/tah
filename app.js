@@ -1,1 +1,1 @@
-hello
+var app = {};
